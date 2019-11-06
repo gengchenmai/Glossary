@@ -26,7 +26,7 @@ _This living document serves as a community and consensus-driven glossary of ter
 
 ## Embedding
 
-Originally, in mathematics, an embedding is one instance of some mathematical structure contained within another instance. In [machine learning], embeddings refer to real value vectors as output or intermediate products of neural networks which are treated as representations of symbolic, categoric instances in a hidden space. An embedding can represent a word, a word phrase, a sentence, a paragraph, an image, a sound, an entity/relation in a knowledge graph, and so on.
+Originally, in mathematics, an embedding is one instance of some mathematical structure contained within another instance. In [machine learning], embeddings refer to real value vectors as output or intermediate products of neural networks which are treated as representations of symbolic, categoric instances in a hidden space. An embedding can represent a word, a word phrase, a sentence, a paragraph, an image, a sound, an entity/relation in a [knowledge graph](#Knowledge-Graph-KG), and so on.
 
 \[**Used by:** A-6677\]
 
@@ -100,7 +100,7 @@ A shared domain model usually expressed using the W3C standard Web Ontology Lang
 ## Question Answering
 
 In the field of [natural language processing], Question Answering (QA) refers to the methods, processes, and systems which allow users to ask questions in the form of natural language sentences and receive one or more answers, often in the form of
-sentences. Almost all QA systems answer a given question based on their internal [knowledge bases] (KB). According to the nature of such knowledge bases, current QA research can be classified into three categories: unstructured data-based QA (e.g. QA systems based on unstructured text), semi-structure tablebased QA (e.g. QA systems based on tables from Wikipedia pages without any schema information), and structured-KB-based QA (so-called [semantic parsing]). In the field of Semantic Web, question answering over knowlewdge graphs is considered as one type of structured-KB-based QA which aims at translating a natural language question into a machine understandable program such as SPARQL and Lambda calculus.
+sentences. Almost all QA systems answer a given question based on their internal [knowledge bases] (KB). According to the nature of such knowledge bases, current QA research can be classified into three categories: unstructured data-based QA (e.g. QA systems based on unstructured text), semi-structure tablebased QA (e.g. QA systems based on tables from Wikipedia pages without any schema information), and structured-KB-based QA (so-called [semantic parsing]). In the field of Semantic Web, question answering over [knowlewdge graphs](#Knowledge-Graph-KG) is considered as one type of structured-KB-based QA which aims at translating a natural language question into a machine understandable program such as SPARQL and Lambda calculus.
 
 \[**Used by:** A-6677\]
 
